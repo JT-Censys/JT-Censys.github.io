@@ -1,4 +1,4 @@
-# Look at me [mom]()! I got a website!
+# Look at me [mom](https://imgur.com/a/MIYUKIF)! I got a website!
 This is the GitHub website that I am in the process of making with help from the Trine University CSIT Hacking Team.
 
 # School Based Projects:
