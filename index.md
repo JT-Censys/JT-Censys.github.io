@@ -2,7 +2,7 @@
 This is the GitHub website that I am in the process of making with help from the Trine University CSIT Hacking Team.
 
 # School Based Projects:
-### -[**SysGuard**](404) (Censys Based Assest Attack Surface Management Tool): python-dash front end with a mysql backend and graphana visualization.
+### -[**SysGuard**](404) (Censys Based Assest Attack Surface Management Tool): python-dash front end with a mysql backend and graphana visualization. (Will add link when repo is made public)
 # Personal Projects:
 ### -[**DnDMP**](https://github.com/NinjaKittayPK/DnDMP) (Dungeons and Dragons Map Player): python based dnd discord bot.
 ### -[**THEPyBluetoothScanner**](https://github.com/NinjaKittayPK/THEBluePyScanner): A scanner for bluetooth 4 and LE that logs all that it can find.
